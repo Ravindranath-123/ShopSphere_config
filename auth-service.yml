@@ -8,7 +8,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/auth_db?createDatabaseIfNotExist=true
     username: root
-    password: Abhi@11399
+    password: root123
 
   jpa:
     hibernate:
@@ -18,8 +18,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: abhi9618589073@gmail.com
-    password: hjik jyci uohe fary
+    username: ravindranathpotturu@gmail.com
+    password: pxkw sxhf ugnd dwir
     properties:
       mail.smtp.auth: true
       mail.smtp.starttls.enable: true
